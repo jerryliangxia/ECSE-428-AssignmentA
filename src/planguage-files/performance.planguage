@@ -1,0 +1,25 @@
+Game Performance with Suitable Player Matches
+
+Tag: 
+Performance.Game.ResponseTime
+
+Ambition:
+Fast initialization time to create a game within a match of players.
+
+Scale:
+Seconds of elapsed time between pressing the Enter key or clicking OK to request the start of the game.
+
+Meter: 
+Stopwatch testing performed on 30 samples with 4 players per game.
+
+Goal:
+No more than 3 seconds for 95 percent of games.
+
+Stretch:
+No more than 2 seconds for games with more than 4 players.
+
+Wish:
+Less than 2 second for all games.
+
+Target: 
+Less that 2 seconds 80 percent of the time.

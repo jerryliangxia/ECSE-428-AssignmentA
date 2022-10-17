@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8467d2d-b5c1-4b9a-8679-02724f600029" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ECSE428-AssignmentA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/ban_accounts.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_hotel.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_houses.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_properties.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/checks_statistics_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/collecting_money_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/create_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/create_party.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/delete_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/delete_party.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/edit_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/edit_party.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/forget_passwords.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/go_jail_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/join_party.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/leave_party.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/login_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/logout_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pay_rent_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pay_taxes_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pickupCard_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/play_against_bots.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/play_against_random.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/receive_FriendRequest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/remove_friend.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/report_account.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/roll_dice_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/sell_properties.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/send_FriendRequest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/sending_message.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/start_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_game.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_online_friends.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_player_profile.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_reports.feature" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GF1b1ijzsnl0hYKWIUOk61mls1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: ban_user_account (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ban_user_account (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/feature-files/moderator/ban_user_account.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="ECSE-428-AssignmentA" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: ban_user_account" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ban_user_account" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/feature-files/moderator/ban_user_account.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="ECSE-428-AssignmentA" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: ban_user_account" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: ban_user_account (1)" />
+        <item itemvalue="Cucumber Java.Feature: ban_user_account" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8467d2d-b5c1-4b9a-8679-02724f600029" name="Default Changelist" comment="" />
+      <created>1665969586191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665969586191</updated>
+      <workItem from="1665969588785" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1665969781987">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.25.1440.792@0.25.1440.792" timestamp="1665969781987" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1665969781983">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.25.1440.792@0.25.1440.792" timestamp="1665969781983" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1665969781927">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.25.1440.792@0.25.1440.792" timestamp="1665969781927" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1665969781986">
+      <screen x="0" y="25" width="1440" height="792" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.25.1440.792@0.25.1440.792" timestamp="1665969781986" />
+  </component>
+</project>
