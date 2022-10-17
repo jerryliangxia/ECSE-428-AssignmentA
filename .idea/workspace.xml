@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8467d2d-b5c1-4b9a-8679-02724f600029" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ECSE428-AssignmentA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/ban_accounts.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_hotel.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_houses.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/buy_properties.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/checks_statistics_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/collecting_money_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/create_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/create_party.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/delete_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/delete_party.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/edit_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/edit_party.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/forget_passwords.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/go_jail_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/join_party.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/leave_party.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/login_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/logout_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pay_rent_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pay_taxes_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/pickupCard_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/play_against_bots.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/play_against_random.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/receive_FriendRequest.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/remove_friend.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/report_account.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/roll_dice_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/sell_properties.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/send_FriendRequest.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/sending_message.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/start_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_game.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_online_friends.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_player_profile.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StepsDefinitions/view_reports.feature" beforeDir="false" />
-    </list>
+    <list default="true" id="b8467d2d-b5c1-4b9a-8679-02724f600029" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665969586191</updated>
-      <workItem from="1665969588785" duration="510000" />
+      <workItem from="1665969588785" duration="1088000" />
     </task>
     <servers />
   </component>
