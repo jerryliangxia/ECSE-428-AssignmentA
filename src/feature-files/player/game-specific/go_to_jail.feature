@@ -14,7 +14,7 @@ Feature: Player goes to Jail
     Then the player is moved to the jail space
     And the player is now in jail
 
-  Scenario: (Alternative Flow) Player is told to go to Jail by Community/Chance card
+  Scenario: (Normal Flow) Player is told to go to Jail by Community/Chance card
     Given a Player "Player1" who is playing the game
     And it is the turn of "Player1"
     And they have rolled their die
@@ -23,7 +23,7 @@ Feature: Player goes to Jail
     Then the player is moved to the jail space
     And the player is now in jail
 
-  Scenario: (Alternative Flow) Player has rolled doubles three times in a row
+  Scenario: (Normal Flow) Player has rolled doubles three times in a row
     Given a Player "Player1" who is playing the game
     And it is the turn of "Player1"
     And they have rolled their die

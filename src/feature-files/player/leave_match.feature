@@ -22,7 +22,7 @@ Feature: Leave Joined match
     When "Player2" leaves the match with matchId "123456"
     Then "Player2" shall no longer be in the match with matchId "123456"
 
-  Scenario: (Alternative Flow) Player leaves the match leaving no real players in the match
+  Scenario: (Normal Flow) Player leaves the match leaving no real players in the match
     Given "Player1" is logged into the system
     And "Player2" is in the match with matchId "123456"
     And no game is active in the match with matchId "123456"
@@ -30,7 +30,7 @@ Feature: Leave Joined match
     Then "Player2" shall no longer be in the match with matchId "123456"
     And the match with matchId "123456" shall still persist in the system
 
-  Scenario: (Alternative Flow) Admin leaves the match while other players present in the game
+  Scenario: (Normal Flow) Admin leaves the match while other players present in the game
     Given "Player1" is logged into the system
     And "Player1" is in the match with matchId "123456"
     And "Player2" is in a with matchId "123456"

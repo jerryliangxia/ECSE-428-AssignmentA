@@ -16,7 +16,7 @@ Feature: Edit Account Details
       | jerrylxia@gmail.com     | oldPassword1 | newPassword1 |
       | jerryliangxia@gmail.com | oldPassword1 | newPassword2 |
     
-  Scenario Outline: (Alternative Flow) User requests to change their email address
+  Scenario Outline: (Normal Flow) User requests to change their email address
     Given that a user with email <email> and password <password> exist in the system
     When the user changes their email to <newEmail>
     Then the user will have <newEmail> as their email

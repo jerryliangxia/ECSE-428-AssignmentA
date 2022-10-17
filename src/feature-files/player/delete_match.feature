@@ -43,14 +43,13 @@ Feature: Delete match
     And "Player1" shall be removed from the match with matchId "123456"
     And the match with matchId "123456" shall no longer exist
 
-  Scenario: (Alternative Flow) Player deletes the match in an active game
+  Scenario: (Error Flow) Player deletes the match when not an admin
     Given "Player1" is logged into the system
+    And "Player2" is the admin of the match with matchId "123456"
     And "Player1" is in the match with matchId "123456"
     And "Player2" is in the match with matchId "123456"
     And "Player3" is in the match with matchId "123456"
     And "Player4" is in the match with matchId "123456"
     And a game is in progress in the match with matchId "123456"
     When "Player1" requests to delete match with matchId "123456"
-    Then "Player2" shall be removed from the match with matchId "123456"
-    And "Player1" shall be removed from the match with matchId "123456"
-    And the match with matchId "123456" shall no longer exist
+    Then an error message is created with text "You are not admin!"

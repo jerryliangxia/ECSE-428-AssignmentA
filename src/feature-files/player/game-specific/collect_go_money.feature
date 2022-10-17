@@ -19,7 +19,7 @@ Feature: Player collects money from GO space
     When the player passes the GO space within their turn
     Then they shall receive $200 added to their in-game account
 
-  Scenario: (Alternative Flow) Player lands on GO space
+  Scenario: (Normal Flow) Player lands on GO space
     Given a player "Player1" who is playing the game
     When the player lands on the GO space within their turn
     Then they shall receive $200 added to their in-game account
